@@ -1,6 +1,7 @@
 # 📟 Calculator
 
 Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
+
 O objetivo é praticar conceitos básicos de manipulação do DOM, estilização e lógica de programação.
 
 
