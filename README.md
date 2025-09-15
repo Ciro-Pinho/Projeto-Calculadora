@@ -5,6 +5,7 @@ Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 O objetivo é praticar conceitos básicos de manipulação do DOM, estilização e lógica de programação.
 
 
+
 🚀 Funcionalidades
 
 - Adição, subtração, multiplicação e divisão;
@@ -20,6 +21,7 @@ O objetivo é praticar conceitos básicos de manipulação do DOM, estilização
 - Interface estilizada com CSS e responsiva.
 
 
+
 🛠️ Tecnologias Utilizadas
 
 - HTML5
@@ -27,6 +29,7 @@ O objetivo é praticar conceitos básicos de manipulação do DOM, estilização
 - CSS3
 
 - JavaScript
+
 
 
 📌 Autor
